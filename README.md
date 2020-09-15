@@ -1,8 +1,6 @@
 # OnlineShopping-PhpAjaxMySQL
 Web site with client-side and server-side technologies
 
-Uendi Hoxha [hoxhauendi21@gmail.com]
-
 DEPENDENCIES
 
 Make sure to have: -websitedb.sql 
@@ -11,7 +9,7 @@ DESCRIPTION
 
 This is a website in which users can check reviews and suggestions about some products and also order them.
 
-<a href="url"><img src="https://github.com/uendihoxha/OnlineShopping-PhpAjaxMySQL/blob/master/screenshots/(4)%20Checking%20products.PNG" height="390" width="650" ></a>
+<a href="url"><img src="https://github.com/uendicode/OnlineShoppingPHP/blob/master/screenshots/(4)%20Checking%20products.PNG" height="390" width="650" ></a>
 
 FEATURES
 1. User can register in the website.
